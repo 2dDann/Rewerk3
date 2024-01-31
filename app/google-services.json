@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951696866594",
+    "project_id": "rewerk3",
+    "storage_bucket": "rewerk3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951696866594:android:c65bdbef382ba2f8af797b",
+        "android_client_info": {
+          "package_name": "com.example.rewerk3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951696866594-e3l0tqfk2i6h88g21iegj8u3qkcgco9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVrwBf62hEePzJL9aokATgw6JoTiUAjCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951696866594-e3l0tqfk2i6h88g21iegj8u3qkcgco9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
